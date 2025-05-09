@@ -116,6 +116,6 @@ Não. Basta ele salvar o relatório na pasta `relatorios/`.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome]  
-📎 LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)  
-🐙 GitHub: [github.com/seunome](https://github.com/seunome)
+Desenvolvido por Pedro Pedreira de Cerqueira
+Linkedin: https://www.linkedin.com/in/pedro-pedreira-de-cerqueira-78b340330/
+
