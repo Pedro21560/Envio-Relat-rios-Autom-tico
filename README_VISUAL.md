@@ -5,12 +5,6 @@ Ideal para freelancers, pequenos negócios ou quem quer aprender automação com
 
 ---
 
-## 🖼️ Demonstração
-
-<img src="https://user-images.githubusercontent.com/00000000/email-demo.png" width="600" alt="Demonstração do envio por e-mail" />
-
----
-
 ## ✨ Funcionalidades
 
 ✅ Busca automática do último arquivo `.xlsx` na pasta `relatorios/`  
@@ -37,7 +31,7 @@ Ideal para freelancers, pequenos negócios ou quem quer aprender automação com
 ## 🛠️ Como Usar
 
 📘 Acesse o tutorial completo aqui:  
-[TUTORIAL_USO.md](./TUTORIAL_USO.md)
+[TUTORIAL_USO.md]
 
 Ou veja abaixo um resumo rápido:
 
@@ -89,5 +83,6 @@ Se este projeto te ajudou ou inspirou, marque no LinkedIn, contribua com melhori
 
 ## 👤 Autor
 
-**Seu Nome**  
-🔗 [LinkedIn](https://linkedin.com/in/seunome) | 🐙 [GitHub](https://github.com/seunome)
+Pedro Pedeira de Cerqueira.
+
+linkedin: https://www.linkedin.com/in/pedro-pedreira-de-cerqueira-78b340330/
